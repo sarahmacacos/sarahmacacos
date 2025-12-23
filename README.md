@@ -35,14 +35,6 @@ Not everything here is final or perfect — it reflects my progress and growth.
 
 ---
 
-## Goals
-
-- Build a strong foundation in Computer Science  
-- Develop clean and understandable code  
-- Learn consistently and evolve as a programmer  
-
----
-
 ## A Bit More About Me
 
 I enjoy understanding why things work, not just how to use them.
