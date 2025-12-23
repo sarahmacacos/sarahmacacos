@@ -1,7 +1,6 @@
 # Hi, I’m Sarah
 
 Based in Brazil  
-Computer Science student  
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/820f886a-2f63-4b30-957a-8e1a826601b8" alt="Coding gif" width="300"/>
