@@ -13,7 +13,7 @@ Computer Science student
 
 I am a Computer Science student who enjoys learning how technology works from the ground up. I like exploring concepts with curiosity, practicing consistently, and improving through real examples and small projects.
 
-I am currently focused on strengthening my foundations and growing step by step as a developer.
+I am currently focused on strengthening my foundations and growing as a developer.
 
 ---
 
