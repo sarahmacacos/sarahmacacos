@@ -34,10 +34,3 @@ This GitHub contains:
 Not everything here is final or perfect — it reflects my progress and growth.
 
 ---
-
-## A Bit More About Me
-
-I enjoy understanding why things work, not just how to use them.
-
-Thanks for visiting my profile.  
-Feel free to explore the repositories.
