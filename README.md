@@ -1,7 +1,5 @@
 # Hi, I’m Sarah
 
-Based in Brazil  
-
 <p align="center">
   <img src="https://github.com/user-attachments/assets/820f886a-2f63-4b30-957a-8e1a826601b8" alt="Coding gif" width="300"/>
 </p>
@@ -9,6 +7,8 @@ Based in Brazil
 ---
 
 ## About Me
+
+Based in Brazil  
 
 I am a Computer Science student who enjoys learning how technology works from the ground up. I like exploring concepts with curiosity, practicing consistently, and improving through real examples and small projects.
 
