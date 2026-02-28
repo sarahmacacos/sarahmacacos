@@ -17,7 +17,7 @@ I am a Computer Science student who enjoys learning about cybersecurity & ethica
 ## What I’m Learning
 
 - HTML + JavaScript + CSS
-- Java  
+- Java & Python
 - Computer Science
 - CyberSecurity
 - Ethical Hacking 
@@ -48,10 +48,6 @@ This GitHub contains:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-
-### Tools & Ecosystem
-![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 
 ---
 
