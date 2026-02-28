@@ -1,4 +1,4 @@
-# Hiii!!! I’m Sarah
+li# Hiii!!! I’m Sarah
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/820f886a-2f63-4b30-957a-8e1a826601b8" alt="Coding gif" width="300"/>
@@ -12,7 +12,8 @@ Based in Brazil
 
 I am a Computer Science student passionate about cybersecurity and ethical hacking.
 
-Beyond technology, I enjoy watching films and editing videos — activities that strengthen my creativity, critical thinking, and visual storytelling skills.
+  Beyond technology, I enjoy watching films & series, editing videos & playing games.
+
 ---
 
 ## What I’m Learning
