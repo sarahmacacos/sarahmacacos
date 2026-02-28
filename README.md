@@ -10,17 +10,17 @@
 
 Based in Brazil  
 
-I am a Computer Science student who enjoys learning how technology works from the ground up. I like exploring concepts with curiosity, practicing consistently, and improving through real examples and small projects.
-
-I am currently focused on strengthening my foundations and growing as a developer.
+I am a Computer Science student who enjoys learning about cybersecurity & ethical hacking. 
 
 ---
 
 ## What I’m Learning
 
-- HTML – structure, semantics, and web fundamentals  
-- Java – object-oriented programming and logic  
-- Computer Science fundamentals – algorithms, logic, and core concepts  
+- HTML   
+- Java  
+- Computer Science fundamentals
+- CyberSecurity
+- Ethical Hacking 
 
 ---
 
@@ -31,8 +31,6 @@ This GitHub contains:
 - Practice exercises  
 - Learning experiments with HTML and Java  
 - Code written as part of my learning process  
-
-Not everything here is final or perfect — it reflects my progress and growth.
 
 ---
 
