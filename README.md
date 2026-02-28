@@ -10,8 +10,9 @@
 
 Based in Brazil  
 
-I am a Computer Science student who enjoys learning about cybersecurity & ethical hacking. 
+I am a Computer Science student passionate about cybersecurity and ethical hacking.
 
+Beyond technology, I enjoy watching films and editing videos — activities that strengthen my creativity, critical thinking, and visual storytelling skills.
 ---
 
 ## What I’m Learning
