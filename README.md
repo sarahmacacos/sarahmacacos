@@ -12,10 +12,10 @@
 
 ## About Me
 
-I'm a Computer Science student at UniFil, also studying CyberSecurity at FIAP.
+I'm a Computer Science student at UniFil.
 I'm passionate about ethical hacking, backend development and building things that actually work.
 
-When I'm not coding, I'm watching series, editing videos or obsessing over cars.
+When I'm not coding, I'm watching series/movies, editing videos or obsessing over my cats.
 
 ---
 
