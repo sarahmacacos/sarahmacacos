@@ -18,7 +18,19 @@ I'm passionate about ethical hacking, backend development and building things th
 When I'm not coding, I'm watching series/movies, editing videos or obsessing over my cats.
 
 ---
+## Projects
 
+### 🌳 [Binary Tree](https://arvorebinaria.netlify.app)
+Interactive Binary Search Tree (BST) visualizer developed for studying Data Structures. The application allows insertion, removal, traversal visualization, and demonstrates common BST operations through an intuitive graphical interface.
+
+**Technologies:** JavaScript, HTML, CSS
+
+### 🛡️ [Academic Project – Alerta Segura](https://alertasegura.vercel.app)
+Academic web application created to facilitate the reporting and management of safety-related incidents. Developed as part of a university project, focusing on usability, accessibility, and practical problem-solving through technology.
+
+**Technologies:** HTML, CSS, JavaScript
+
+---
 ## Currently Learning
 
 - CyberSecurity & Ethical Hacking
