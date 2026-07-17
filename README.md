@@ -35,7 +35,7 @@ Academic web application created to facilitate the reporting and management of s
 
 - CyberSecurity & Ethical Hacking
 - Node.js · Express · REST APIs
-- Java & Python
+- Java, Python, TypeScript
 - PostgreSQL & Database Modeling
 
 ---
