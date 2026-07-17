@@ -20,7 +20,7 @@ When I'm not coding, I'm watching series/movies, editing videos or obsessing ove
 ---
 ## Projects
 
-### 🌳 [Binary Tree](https://arvorebinaria.netlify.app)
+### 🌳 [Binary Tree](https://arvorebinaria.vercel.app)
 Interactive Binary Search Tree (BST) visualizer developed for studying Data Structures. The application allows insertion, removal, traversal visualization, and demonstrates common BST operations through an intuitive graphical interface.
 
 **Technologies:** JavaScript, HTML, CSS
