@@ -12,8 +12,8 @@
 
 ## About Me
 
-I'm a Software Engineer student at UniFil! i'm also doing a cybersecurity internship at TCS.
-I'm passionate about ethical hacking, backend development and building things that actually work.
+I’m a Software Engineering student at UniFil and currently a Cybersecurity Intern at TCS. 
+I’m passionate about cybersecurity, ethical hacking, backend development, and building things that actually work.
 
 When I'm not coding, I'm watching series/movies, editing videos or obsessing over my cats.
 
