@@ -12,7 +12,7 @@
 
 ## About Me
 
-I'm a Computer Science student at UniFil.
+I'm a Software Engineer student at UniFil.
 I'm passionate about ethical hacking, backend development and building things that actually work.
 
 When I'm not coding, I'm watching series/movies, editing videos or obsessing over my cats.
