@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Computer Science Student · CyberSecurity & Ethical Hacking Enthusiast · Based in Brazil.
+  Software Engineer Student · CyberSecurity & Ethical Hacking Enthusiast · Based in Brazil.
 </p>
 
 ---
